@@ -4234,7 +4234,7 @@
             26
           ]
         ],
-        "text-field": "{name}\u2022",
+        "text-field": "{name}",
         "visibility": "visible",
         "text-anchor": "center",
         "text-offset": [
@@ -5101,8 +5101,8 @@
   "bearing": 0.0,
   "pitch": 0.0,
   "center": [
-    7.94681925969121,
-    46.51731933119919
+    8.197380330050237,
+    46.72436462944361
   ],
   "zoom": 10.266389720028444
 }
