@@ -1,2 +1,2 @@
 # maptiler-flightsim-style
-Maptiler Cloud style optimized for Flight Simulators
+[Maptiler Cloud](https://cloud.maptiler.com) style optimized for Flight Simulators
